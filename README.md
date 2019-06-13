@@ -1,4 +1,4 @@
-[<img src="https://github.com/szympol/26._ChatApp/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/26._ChatApp/)
+[<img src="https://github.com/szympol/26._ChatApp/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/26._ChatApp/blob/master/images/main.JPG)
 
 # ChatApp
 
