@@ -34,6 +34,10 @@ class App extends Component {
     const messages = [message, ...this.state.messages];
     this.setState({ messages });
     socket.emit("message", message);
+
+    const chatTitle = document.querySelector('title');
+    chatTitle.innerHTML = `${message.alert}`;
+    console.log(message.alert);
   }
 
   handleUserSubmit(name) {
