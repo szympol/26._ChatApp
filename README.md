@@ -1,4 +1,4 @@
-[<img src="https://github.com/szympol/26._ChatApp/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/26._ChatApp/blob/master/images/main.JPG)
+[<img src="https://github.com/szympol/ChatApp/blob/master/images/main.JPG?raw=true" align="right" alt="Authenticate applications using Google" width="40%">](https://github.com/szympol/ChatApp/blob/master/images/main.JPG)
 
 # ChatApp
 
@@ -40,7 +40,7 @@ This app is based on user stories with Acceptance Criteria:
 
 ## Getting Started
 
-<!-- - [View project online](https://szympol.github.io/26._ChatApp) -->
+<!-- - [View project online](https://szympol.github.io/ChatApp) -->
 This project requires a server to start working.
 
 Please follow instructions below, if you are willing to run the project locally.
@@ -56,7 +56,7 @@ Please copy and paste below commands to your Git terminal step by step to get a 
 Download a repository:
 
 ```node
-git clone git@github.com:szympol/26._ChatApp.git chatApp
+git clone git@github.com:szympol/ChatApp.git chatApp
 ```
 
 Go to the project working directory:
